@@ -28,14 +28,13 @@ The purpose of this repository is to centralize documentation, schematics, repos
 
 # 📊 Comparative Table / Tabla Comparativa
 
-| Proyecto / Project | Desarrollador / Dev | Ebyte E28 | Ebyte E80 | MCU | Enlace / Link | Notas de Diseño / Design Notes |
-| :--- | :--- | :---: | :---: | :---: | :--- | :--- |
-| **Albatastic Compact** | EA5JSQ | ✔️ | \* | nRF52840 | [GitHub](https://github.com/sqtactical/Albatastic_Node) | Nodo compacto de propósito general / Compact multipurprose PCB |
-| **Albatastic Scout** | EA5JSQ | ✔️ | ✔️ | nRF52840 | [GitHub](https://github.com/sqtactical/Albatastic-Scout) | Nodo solar sencillo para despliegues rápidos / Quick deploy simple solar node |
-| **FakeTec 2.4G** | EA5JSQ | ✔️ | ❌ | nRF52840 | [GitHub](https://github.com/sqtactical/FakeTec_2.4G) | La famosa Faketec, ahora en versión 2.4G / The famous Faketec, now in 2.4GHz |
-| **Albatastic PRO** | EmilioAL-Git | ✔️ | ✔️ | nRF52840/Seeed nRF52 | [GitHub](https://github.com/EmilioAL-Git/PCB-Albatastic-PRO) | Placa multiopción con gran versatilidad / Great flexibility PCB with plenty of options for hardware |
-| **xiaoWa** | gargomoma | ❌ | ✔️ | nRF52840| [GitHub](https://github.com/gargomoma/xiaoWa_pcb) | Ultra-compacta, ideal para nodos ocultos o tubos de 32mm / Ultra-compact, ideal for stealth nodes or 32mm tubes |
-
+| Proyecto / Project | Desarrollador / Dev | Ebyte E28 | Ebyte E80 | Vollgo VG2392S240X0M3 | MCU | Enlace / Link | Notas de Diseño / Design Notes |
+| :--- | :--- | :---: | :---: | :---: | :---: | :--- | :--- |
+| **Albatastic Compact** | EA5JSQ | ✔️ | \* | ❌ | nRF52840 | [GitHub](https://github.com/sqtactical/Albatastic_Node) | Nodo compacto de propósito general / Compact multipurprose PCB |
+| **Albatastic Scout** | EA5JSQ | ✔️ | ✔️ | ❌ | nRF52840 | [GitHub](https://github.com/sqtactical/Albatastic-Scout) | Nodo solar sencillo para despliegues rápidos / Quick deploy simple solar node |
+| **FakeTec 2.4G** | EA5JSQ | ✔️ | ❌ | ❌ | nRF52840 | [GitHub](https://github.com/sqtactical/FakeTec_2.4G) | La famosa Faketec, ahora en versión 2.4G / The famous Faketec, now in 2.4GHz |
+| **Albatastic PRO** | EmilioAL-Git | ✔️ | ✔️ | ❌ | nRF52840/Seeed nRF52 | [GitHub](https://github.com/EmilioAL-Git/PCB-Albatastic-PRO) | Placa multiopción con gran versatilidad / Great flexibility PCB with plenty of options for hardware |
+| **xiaoWa** | gargomoma | ❌ | ✔️ | ❌ | nRF52840| [GitHub](https://github.com/gargomoma/xiaoWa_pcb) | Ultra-compacta, ideal para nodos ocultos o tubos de 32mm / Ultra-compact, ideal for stealth nodes or 32mm tubes |
 > **\*** *Depende de la versión / Depending on the version.*
 
 ---
