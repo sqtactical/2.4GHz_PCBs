@@ -1,5 +1,11 @@
 # 📡 2.4GHz Meshtastic PCBs Compilation / Recopilatorio de PCBs 2.4GHz
 
+> ⚠️ **Aviso de responsabilidad / Legal Disclaimer:**  
+> **🇪🇸:** Queda bajo la responsabilidad exclusiva del usuario final garantizar que la fabricación, configuración y uso de estas placas o dispositivos cumpla con la legislación y normativa de telecomunicaciones aplicable en su país o región.  
+> **🇬🇧:** It is the sole responsibility of the end user to ensure that the assembly, configuration, and operation of these PCBs comply with applicable local telecommunications laws and regulations.
+
+---
+
 ## 🇪🇸 Descripción
 
 Este repositorio es un recopilatorio de hardware y proyectos de PCBs diseñados específicamente para ejecutar **Meshtastic en la banda de 2.4GHz**.
@@ -38,7 +44,6 @@ The purpose of this repository is to centralize documentation, schematics, repos
 > **\*** *Depende de la versión / Depending on the version.*
 
 ---
-
 
 ## ➕ ¿Quieres añadir tu PCB? / Want to add your PCB?
 
